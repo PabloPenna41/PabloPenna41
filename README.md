@@ -2,7 +2,7 @@
 
 **`Dev Junior`**
 
-Me chamo Juan Pablo Pena, tenho 18 anos e sou natural de Salvador. Concluí o ensino médio no Colégio Millenium. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAN. Gosto bastante de tecnologia e procuro sempre melhorar e me aperfeiçoar na aréa.
+Me chamo Juan Pablo Pena, tenho 19 anos e sou natural de Salvador. Concluí o ensino médio no Colégio Millenium. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAN. Gosto bastante de tecnologia e procuro sempre melhorar e me aperfeiçoar na aréa.
 
 
 ### 🤖 Linguagens e Tecnologias
